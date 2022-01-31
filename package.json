@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "nomepages": "https://Pavel07-chyden.github.io/Weather.git",
+  "nomepages": "https://github.com/Pavel07-chyden/Weather.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
