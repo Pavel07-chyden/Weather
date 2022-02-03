@@ -1,5 +1,6 @@
 import React, { FC } from 'react';
 
+// commit
 interface AlertProps {
    message: string,
    onClose: () => void
