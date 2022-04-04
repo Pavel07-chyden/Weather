@@ -8,7 +8,7 @@ import { setAlert } from './store/actions/alertActions';
 import { setError } from './store/actions/weatherActions';
 import { useSelector, useDispatch } from 'react-redux';
 
-
+//test
 
 const App: FC = () => {
   const dispatch = useDispatch();
