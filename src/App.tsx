@@ -16,7 +16,6 @@ const App: FC = () => {
   const loading = useSelector((state: RootState) => state.weather.loading);
   const error = useSelector((state: RootState) => state.weather.error);
   const alertMsg = useSelector((state: RootState) => state.alert.message);
-
   return (
     <div className="has-text-centered">
       <Search title='Enter city name and press seach button' />
